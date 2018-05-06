@@ -5,7 +5,7 @@ language.
 
 ## Installation
 
-TODO:
+TODO
 
 ### Pathogen
 
@@ -36,6 +36,10 @@ TODO
 
 ## Inspiration
 
+Before creating this, I searched for any pre-existing work.  I found 
+[this][pre-existing-work], but I could not get it to work.
+
+
 I studied these repositories trying to glean style, structure, and best practices.
 
  - https://github.com/Shougo?utf8=%E2%9C%93&tab=repositories&q=&type=&language=vim%20script
@@ -43,3 +47,6 @@ I studied these repositories trying to glean style, structure, and best practice
  - https://github.com/neo4j-contrib/cypher-vim-syntax
  - http://vim.wikia.com/wiki/Creating_your_own_syntax_files
  - https://github.com/mileszs/ack.vim
+
+
+[pre-existing-work]: https://github.com/pr3d4t0r/n1ql-vim-syntax
